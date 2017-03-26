@@ -38,21 +38,6 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "landuse": "university",
-        "name": "Iowa Stateuniversity "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         41.66,
-        -91.534
-        ]
-      }
-    },{
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "landuse": "university",
         "name": "Drake University "
       },
       "geometry": {
