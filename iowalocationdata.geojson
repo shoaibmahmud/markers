@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        
         "landuse": "university",
         "name": "Iowa State University "
       },
@@ -20,8 +20,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        
         "landuse": "university",
         "name": "University of Iowa"
       },
@@ -35,8 +35,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+       
         "landuse": "university",
         "name": "Drake University "
       },
@@ -51,8 +51,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        
         "landuse": "landmarks",
         "name": "Amana Colonies,Iowa"
       },
@@ -67,8 +67,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
+        
         "landuse": "landmarks",
         "name": "Dubuque County Jail "
       },
@@ -83,8 +83,7 @@
    {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
+        "marker-color": "",
         "landuse": "landmarks",
         "name": "Sergeant Floyd Monument "
       },
